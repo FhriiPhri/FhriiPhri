@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 
-## Statistik Saya Di Github
+## Skill Yang Saya Miliki
 
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)
@@ -27,6 +27,8 @@ Here are some ideas to get you started:
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+## Statistik GitHub Saya
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FhriiPhri&show_icons=true&theme=radical)
 
