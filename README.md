@@ -2,7 +2,9 @@
 
 ## Hi there 👋
 
-Perkenalkan nama saya **Muhammad Fahri Ramadhan**. Saya merupakan seorang siswa di salah satu sekolah IT di Kota Depok, **SMK Taruna Bhakti Depok**. Saya memiliki bakat di Game Development dengan menggunakan **Unity Engine**. Saya sangat senang sekali membuat game-game di **Unity Engine**, seperti Game 3D, dan lain-lain. Project yang sudah saya jalani yaitu saya membuat salah satu game horror 3D dengan nama game **Behind The Laundry**. Game ini dibuat dengan waktu 13 hari. Saat ini game **Behind The Laundry** sudah rilis di salah satu platform game store PC, yaitu **Itch.io**
+Perkenalkan nama saya **Muhammad Fahri Ramadhan**. Saya merupakan seorang siswa di salah satu sekolah IT di Kota Depok, **SMK Taruna Bhakti Depok**. Saya memiliki bakat di Game Development dengan menggunakan **Unity Engine**. Saya sangat senang sekali membuat game-game di **Unity Engine**, seperti Game 3D, dan lain-lain. Project yang sudah saya jalani yaitu saya membuat salah satu game horror 3D dengan nama game **Behind The Laundry**. Game ini dibuat dengan waktu 13 hari. Saat ini game **Behind The Laundry** sudah rilis di salah satu platform game store PC, yaitu **Itch.io**. Anda bisa men-support saya dengan mendownload game pertama buatan saya di **Itch.io**.
+
+<h3>**Terimakasih Atas Dukungannya**</h3>
 
 Here are some ideas to get you started:
 
