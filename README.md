@@ -2,7 +2,7 @@
 
 ## Hi there 👋
 
-**FhriiPhri/FhriiPhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Perkenalkan nama saya **Muhammad Fahri Ramadhan**. Saya merupakan seorang siswa di salah satu sekolah IT di Kota Depok, **SMK Taruna Bhakti Depok**. Saya memiliki bakat di Game Development dengan menggunakan **Unity Engine**
 
 Here are some ideas to get you started:
 
