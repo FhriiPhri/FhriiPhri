@@ -18,5 +18,5 @@ Here are some ideas to get you started:
 ## Statistik Profil GitHub
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
-<div></div>
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
