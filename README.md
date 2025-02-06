@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 
 ## Statistik Saya Di Github
 
-![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=FhriiPhri)
+![GitHub Badge](https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=white)
+![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FhriiPhri&show_icons=true&theme=radical)
 
