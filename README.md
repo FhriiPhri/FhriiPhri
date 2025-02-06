@@ -21,6 +21,8 @@ Here are some ideas to get you started:
 
 ## Statistik Saya Di Github
 
+![GitHub Contributions](https://github-readme-stats.vercel.app/api/wakatime?username=FhriiPhri)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FhriiPhri&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FhriiPhri&layout=compact&theme=radical)
