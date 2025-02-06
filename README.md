@@ -1,6 +1,7 @@
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1lZHc2ZXJuemR0cXdyODdubjZqYTBzZGhzMDVkYm5yenBhdjV3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" alt="Banner GIF" style="width: 100%; height: auto; border: 5px solid #FFD700; border-radius: 10px; box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2)">
+
 ## Hi there 👋
 
-<!--
 **FhriiPhri/FhriiPhri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +14,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
