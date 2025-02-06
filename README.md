@@ -6,6 +6,8 @@ Perkenalkan nama saya **Muhammad Fahri Ramadhan**. Saya merupakan seorang siswa 
 
 <h3 style="font-weight: bold">Terimakasih Atas Dukungannya</h3>
 
+---
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
