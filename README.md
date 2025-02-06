@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 ## Statistik Saya Di Github
 
-![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/JavaScript-100000?style=flat-square&logo=javascript&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
