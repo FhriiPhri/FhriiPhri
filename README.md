@@ -1,6 +1,10 @@
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExOG1lZHc2ZXJuemR0cXdyODdubjZqYTBzZGhzMDVkYm5yenBhdjV3biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/MDJ9IbxxvDUQM/giphy.gif" width="100%">
 
-<img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png" width="100%">
+<img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png">
+<img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png">
+<img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png">
+<img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png">
+<img src="https://github.com/drknzz/GitHub-Achievements/blob/main/Media/Badges/Heart-on-your-sleeve/PNG/HeartOnYourSleeve_Silver.png">
 
 ## Hi there 👋
 
