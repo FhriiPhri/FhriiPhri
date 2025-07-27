@@ -1,3 +1,5 @@
+![Banner](https://media.giphy.com/media/UWrfvEpPbblWdQNdLH/giphy.gif)
+
 # 👋 Hi there!
 
 My name is **Muhammad Fahri Ramadhan**, a student at **SMK Taruna Bhakti Depok**, Indonesia.
