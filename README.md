@@ -5,7 +5,7 @@
 My name is **Muhammad Fahri Ramadhan**, a student at **SMK Taruna Bhakti Depok**, Indonesia.
 I'm passionate about Game Development, especially using the **Unity Engine**.
 I've worked on several game projects, one of which is a 3D horror game titled **Behind The Laundry**.
-I developed the game in just **13 days**, and it's now available on **[Itch.io](https://fhriiphri.itch.io/)**.
+I developed the game in just **13 days**, and it's now available on **[Itch.io](https://riifahri.itch.io/)**.
 
 🎮 Feel free to support me by checking out my first game on itch.io!
 
