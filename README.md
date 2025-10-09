@@ -1,64 +1,164 @@
-![Banner](https://media.giphy.com/media/UWrfvEpPbblWdQNdLH/giphy.gif)
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20All%20%F0%9F%91%8B%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
+</div>
 
-# 👋 Hi there!
+###
 
-My name is **Muhammad Fahri Ramadhan**, a student at **SMK Taruna Bhakti Depok**, Indonesia.
-I'm passionate about Game Development, especially using the **Unity Engine**.
-I've worked on several game projects, one of which is a 3D horror game titled **Behind The Laundry**.
-I developed the game in just **13 days**, and it's now available on **[Itch.io](https://riifahri.itch.io/)**.
+<h2 align="left">Hi 👋! My name is Muhammad Fahri Ramadhan and I'm a Game Developer, from Java, Indonesia</h2>
 
-🎮 Feel free to support me by checking out my first game on itch.io!
+###
 
----
+<h1 align="center">My Skills</h1>
 
-## 🧠 Skill Set
+###
 
-| **Category**          | **Tools & Technologies**                                                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Game Engine**       | ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge\&logo=unity\&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/Unreal-%23313131.svg?style=for-the-badge\&logo=unrealengine\&logoColor=white) ![Godot](https://img.shields.io/badge/Godot-%23358DCB.svg?style=for-the-badge\&logo=godot-engine\&logoColor=white)                                                                                                     |
-| **Programming**       | ![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge\&logo=csharp\&logoColor=white) ![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge\&logo=c%2B%2B\&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge\&logo=php\&logoColor=white)                                                                                                                                       |
-| **Web Development**   | ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge\&logo=html5\&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge\&logo=css3\&logoColor=white) ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge\&logo=laravel\&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge\&logo=WordPress\&logoColor=white) |
-| **UI/UX & Design**    | ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=for-the-badge\&logo=figma\&logoColor=white) ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge\&logo=adobe%20illustrator\&logoColor=white)                                                                                                                                                                                                |
-| **3D Modeling**       | ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge\&logo=blender\&logoColor=white)                                                                                                                                                                                                                                                                                                                                              |
-| **Audio Editing**     | ![Audacity](https://img.shields.io/badge/Audacity-%23000000.svg?style=for-the-badge\&logo=audacity\&logoColor=white) ![FL Studio](https://img.shields.io/badge/FL%20Studio-%23F89500.svg?style=for-the-badge\&logo=fl-studio\&logoColor=white)                                                                                                                                                                                                                 |
-| **Video Editing**     | ![Adobe Premiere Pro](https://img.shields.io/badge/Premiere%20Pro-%233B2E7E.svg?style=for-the-badge\&logo=adobe-premiere-pro\&logoColor=white) ![CapCut](https://img.shields.io/badge/CapCut-%23000000.svg?style=for-the-badge\&logo=capcut\&logoColor=white)                                                                                                                                                                                                  |
-| **Screen & Stream**   | ![OBS Studio](https://img.shields.io/badge/OBS%20Studio-%23000000.svg?style=for-the-badge\&logo=obsstudio\&logoColor=white) ![Streamlabs](https://img.shields.io/badge/Streamlabs-%2310F0B4.svg?style=for-the-badge\&logo=streamlabs\&logoColor=white)                                                                                                                                                                                                         |
-| **Productivity**      | ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge\&logo=notion\&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge\&logo=trello\&logoColor=white)                                                                                                                                                                                                                                  |
-| **Version Control**   | ![Git](https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge\&logo=git\&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%2312100E.svg?style=for-the-badge\&logo=github\&logoColor=white)                                                                                                                                                                                                                                           |
-| **Game Distribution** | ![Itch.io](https://img.shields.io/badge/Itch.io-%23FF0B34.svg?style=for-the-badge\&logo=itch-io\&logoColor=white)                                                                                                                                                                                                                                                                                                                                              |
+<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
----
+###
 
-## 🕹️ Game Store
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" height="30" alt="android logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="30" alt="androidstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="30" alt="bash logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" height="30" alt="blender logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="30" alt="canva logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/chrome/chrome-original.svg" height="30" alt="chrome logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/composer/composer-original.svg" height="30" alt="composer logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" height="30" alt="dart logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/devicon/devicon-original.svg" height="30" alt="devicon logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="30" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="30" alt="figma logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" height="30" alt="gimp logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" alt="gitlab logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" height="30" alt="godot logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="30" alt="google logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-original.svg" height="30" alt="gradle logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="30" alt="illustrator logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="30" alt="jetbrains logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="30" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" alt="linkedin logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="30" alt="lua logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="30" alt="nginx logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="30" alt="npm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" alt="php logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="30" alt="photoshop logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rider/rider-original.svg" height="30" alt="rider logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="30" alt="unity logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unrealengine/unrealengine-original.svg" height="30" alt="unrealengine logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="30" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" height="30" alt="windows8 logo"  />
+</div>
 
-![Itch.io](https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge\&logo=Itch.io\&logoColor=white)
-![Steam (if I can afford it)](https://img.shields.io/badge/Steam-\(if%20I%20can%20afford%20it\)-%23000000.svg?style=for-the-badge\&logo=Steam\&logoColor=white)
+###
 
----
+<br clear="both">
 
-## 📈 GitHub Stats
+<h1 align="center">My Stats</h1>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=FhriiPhri&show_icons=true&theme=radical" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FhriiPhri&layout=compact&theme=radical" height="170"/>
-</p>
+###
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=FhriiPhri&theme=radical&hide_border=false" height="170"/>
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=FhriiPhri&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=FhriiPhri&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FhriiPhri&theme=radical"/>
-</p>
+###
 
----
+<br clear="both">
 
-## 📫 Connect With Me
+<img src="https://raw.githubusercontent.com/FhriiPhri/FhriiPhri/output/snake.svg" alt="Snake animation" />
 
-* 🎮 Itch.io: [RiiFahri](https://riifahri.itch.io/)
-* 💼 Instagram: [mfr\_rii.unitypackage](https://instagram.com/mfr_rii.unitypackage)
-* 🧠 Discord: [fhri_rii](https://discord.com/users/1006114414090534953)
+###
 
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FhriiPhri/FhriiPhri/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FhriiPhri/FhriiPhri/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/FhriiPhri/FhriiPhri/output/pacman-contribution-graph.svg">
+</picture>
 
-> 🎯 *"Never stop creating. Because every line of code is a piece of your soul in the game."*
+###
+
+<div align="center">
+  <a href="www.linkedin.com/in/muhammad-fahri-ramadhan-8886a337a" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="65" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://discordapp.com/users/1006114414090534953" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="65" height="40" alt="discord logo"  />
+  </a>
+  <a href="https://www.youtube.com/@Rii_Fhrii" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="65" height="40" alt="youtube logo"  />
+  </a>
+  <a href="https://wa.me/6281210672183" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="65" height="40" alt="whatsapp logo"  />
+  </a>
+  <a href="https://www.instagram.com/mfr_rii.unitypackage/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="65" height="40" alt="instagram logo"  />
+  </a>
+  <a href="https://www.facebook.com/profile.php?id=61555944369775" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="65" height="40" alt="facebook logo"  />
+  </a>
+  <a href="mailto:fahripadang050908@gmail.com" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="65" height="40" alt="gmail logo"  />
+  </a>
+</div>
+
+###
