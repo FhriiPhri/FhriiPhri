@@ -1,3 +1,5 @@
+<br clear="both">
+
 <div>
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&text=Hello%20All%20%F0%9F%91%8B%F0%9F%91%8B&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&color=gradient"  />
 </div>
