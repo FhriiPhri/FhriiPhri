@@ -127,8 +127,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/FhriiPhri/FhriiPhri/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <picture>
